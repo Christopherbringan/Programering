@@ -1,0 +1,13 @@
+/home/christopherj/Dokument/Hello World 2/bin/Debug/netcoreapp3.1/Hello World 2
+/home/christopherj/Dokument/Hello World 2/bin/Debug/netcoreapp3.1/Hello World 2.deps.json
+/home/christopherj/Dokument/Hello World 2/bin/Debug/netcoreapp3.1/Hello World 2.runtimeconfig.json
+/home/christopherj/Dokument/Hello World 2/bin/Debug/netcoreapp3.1/Hello World 2.runtimeconfig.dev.json
+/home/christopherj/Dokument/Hello World 2/bin/Debug/netcoreapp3.1/Hello World 2.dll
+/home/christopherj/Dokument/Hello World 2/bin/Debug/netcoreapp3.1/Hello World 2.pdb
+/home/christopherj/Dokument/Hello World 2/obj/Debug/netcoreapp3.1/Hello World 2.csprojAssemblyReference.cache
+/home/christopherj/Dokument/Hello World 2/obj/Debug/netcoreapp3.1/Hello World 2.AssemblyInfoInputs.cache
+/home/christopherj/Dokument/Hello World 2/obj/Debug/netcoreapp3.1/Hello World 2.AssemblyInfo.cs
+/home/christopherj/Dokument/Hello World 2/obj/Debug/netcoreapp3.1/Hello World 2.csproj.CoreCompileInputs.cache
+/home/christopherj/Dokument/Hello World 2/obj/Debug/netcoreapp3.1/Hello World 2.dll
+/home/christopherj/Dokument/Hello World 2/obj/Debug/netcoreapp3.1/Hello World 2.pdb
+/home/christopherj/Dokument/Hello World 2/obj/Debug/netcoreapp3.1/Hello World 2.genruntimeconfig.cache
