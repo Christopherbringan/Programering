@@ -1,0 +1,13 @@
+/home/christopherj/Dokument/frågesport/bin/Debug/netcoreapp3.1/frågesport
+/home/christopherj/Dokument/frågesport/bin/Debug/netcoreapp3.1/frågesport.deps.json
+/home/christopherj/Dokument/frågesport/bin/Debug/netcoreapp3.1/frågesport.runtimeconfig.json
+/home/christopherj/Dokument/frågesport/bin/Debug/netcoreapp3.1/frågesport.runtimeconfig.dev.json
+/home/christopherj/Dokument/frågesport/bin/Debug/netcoreapp3.1/frågesport.dll
+/home/christopherj/Dokument/frågesport/bin/Debug/netcoreapp3.1/frågesport.pdb
+/home/christopherj/Dokument/frågesport/obj/Debug/netcoreapp3.1/frågesport.csprojAssemblyReference.cache
+/home/christopherj/Dokument/frågesport/obj/Debug/netcoreapp3.1/frågesport.AssemblyInfoInputs.cache
+/home/christopherj/Dokument/frågesport/obj/Debug/netcoreapp3.1/frågesport.AssemblyInfo.cs
+/home/christopherj/Dokument/frågesport/obj/Debug/netcoreapp3.1/frågesport.csproj.CoreCompileInputs.cache
+/home/christopherj/Dokument/frågesport/obj/Debug/netcoreapp3.1/frågesport.dll
+/home/christopherj/Dokument/frågesport/obj/Debug/netcoreapp3.1/frågesport.pdb
+/home/christopherj/Dokument/frågesport/obj/Debug/netcoreapp3.1/frågesport.genruntimeconfig.cache
